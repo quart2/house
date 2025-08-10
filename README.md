@@ -1,4 +1,5 @@
 Multimodal Housing Price Prediction
+
 **Objective**
 To predict housing prices by combining image features from house photos with structured tabular data using a multimodal machine learning approach.
 
